@@ -11,43 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e42c17-f9e4-49a4-9de7-b0e37c302264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_android_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_components_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_kotlin_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/gffg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/src/main/res/layout/dialog_loading.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinFrameWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinFrameWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/api/Api.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/api/UserApiService.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/bean/UserBean.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/contract/LoginContract.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/model/IModelCallback.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/net/NetResponseObserver.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/net/RetrofitManager.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/presenter/LoginPresenter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/IModelCallback.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/IModelCallback.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/LoginModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/gffg.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +96,8 @@
           <entry key="gradle" value="15" />
           <entry key="iml" value="2" />
           <entry key="java" value="2" />
-          <entry key="kt" value="54" />
+          <entry key="kt" value="66" />
+          <entry key="md" value="1" />
           <entry key="pro" value="2" />
           <entry key="properties" value="3" />
           <entry key="xml" value="20" />
@@ -135,8 +108,8 @@
           <entry key="Groovy" value="15" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="54" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Kotlin" value="66" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="ProGuard File" value="2" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="20" />
@@ -146,7 +119,7 @@
         <counts>
           <entry key="gradle" value="75" />
           <entry key="java" value="12" />
-          <entry key="kt" value="1229" />
+          <entry key="kt" value="2136" />
           <entry key="xml" value="47" />
         </counts>
       </usages-collector>
@@ -154,7 +127,7 @@
         <counts>
           <entry key="Groovy" value="75" />
           <entry key="JAVA" value="12" />
-          <entry key="Kotlin" value="1229" />
+          <entry key="Kotlin" value="2136" />
           <entry key="XML" value="47" />
         </counts>
       </usages-collector>
@@ -162,78 +135,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="26" column="76" lean-forward="true" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/net/proguard-rules.pro">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KotlinFrameWork.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorType.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="379">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="e#38#709#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/NetResponseObserver.kt">
+        <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorModel.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="58" column="70" lean-forward="true" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="70" />
+            <state relative-caret-position="66">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/RetrofitManager.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="40" column="20" selection-start-line="10" selection-end-line="58" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/ApiService.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/bean/UserBean.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="267">
+              <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding>
+                <element signature="e#47#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/LoginModel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#44#580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/presenter/LoginPresenter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="e#48#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/IModelCallback.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -241,8 +233,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -3937,8 +3929,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/MyView.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/Test.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/api/Api.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/api/UserApiService.kt" />
@@ -3962,15 +3952,11 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/Api.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/ApiService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/bean/UserBean.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/IModelCallback.kt" />
         <option value="$PROJECT_DIR$/net/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/net/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/net/NetResponseObserver.kt" />
         <option value="$PROJECT_DIR$/net/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/app/App.kt" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/net/RetrofitManager.kt" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/net/widget/LoadingDialog.kt" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/net/ApiErrorModel.kt" />
@@ -3983,16 +3969,23 @@
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/RetrofitManager.kt" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/widget/LoadingDialog.kt" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt" />
         <option value="$PROJECT_DIR$/net/build.gradle" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/NetResponseObserver.kt" />
         <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorType.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/app/App.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/IModelCallback.kt" />
+        <option value="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/IModelCallback.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/LoginModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/presenter/LoginPresenter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="938" />
-    <option name="y" value="561" />
+    <option name="x" value="293" />
+    <option name="y" value="156" />
     <option name="width" value="1931" />
     <option name="height" value="1170" />
   </component>
@@ -4053,6 +4046,46 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="platform" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFrameWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFrameWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFrameWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinFrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinFrameWork" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KotlinFrameWork" type="b2602c69:ProjectViewProjectNode" />
@@ -4136,11 +4169,11 @@
       <recent name="com.kotlinframework.net.network" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network" />
       <recent name="$PROJECT_DIR$/net/src/main/res/layout" />
       <recent name="$PROJECT_DIR$/net/src/main/res/values" />
       <recent name="$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/lib_net" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -4252,8 +4285,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="938" y="561" width="1931" height="1170" extended-state="0" />
-    <editor active="true" />
+    <frame x="293" y="156" width="1931" height="1170" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19057703" />
@@ -4265,9 +4297,9 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50079405" side_tool="true" visible="true" weight="0.32890996" />
-      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.49920592" visible="true" weight="0.32890996" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4997353" visible="true" weight="0.32985783" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002647" side_tool="true" visible="true" weight="0.32985783" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.49920592" weight="0.32890996" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.32985783" />
       <window_info anchor="bottom" id="Logcat" order="6" weight="0.49383888" />
       <window_info anchor="bottom" id="Android Profiler" order="7" />
@@ -4286,10 +4318,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/api/ApiService.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/MainActivity.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/widget/LoadingDialog.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wantlady/kotlindemo/net/NetResponseObserver.kt" />
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -4303,20 +4331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/bean/UserBean.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -4339,20 +4353,6 @@
     <entry file="file://$PROJECT_DIR$/net/src/main/res/layout/dialog_loading.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/IModelCallback.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/net/ApiErrorModel.kt" />
     <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/net/widget/LoadingDialog.kt" />
@@ -4390,34 +4390,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/NetScheduler.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/widget/LoadingDialog.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/app/App.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#42#171#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4437,16 +4413,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.iml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-          <folding>
-            <element signature="e#38#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/net/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -4519,8 +4485,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorType.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="25" column="69" selection-start-line="22" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/NetScheduler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="20" selection-start-line="6" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/app/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#42#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/bean/UserBean.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/api/UserApiService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/ApiErrorModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/IModelCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/src/main/java/com/kotlinframework/net/network/IModelCallback.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/presenter/LoginPresenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#48#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/model/LoginModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#44#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/contract/LoginContract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/kotlinframework/platform/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#709#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
