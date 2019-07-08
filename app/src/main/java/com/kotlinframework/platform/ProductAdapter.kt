@@ -15,6 +15,7 @@ class ProductAdapter(val ctx: Context, val list: List<ProductEntity.Result>) : R
     override fun onCreateViewHolder(p0: ViewGroup, p1: Int): VH {
         var view = View.inflate(ctx,R.layout.product_item_layout,null)
         var vh = VH(view)
+        //该代码
 
         return vh
     }
